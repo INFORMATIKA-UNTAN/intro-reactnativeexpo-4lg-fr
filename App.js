@@ -4,8 +4,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Hello, React Native!</Text>
-      <Text>Nama: Alghi</Text>
-      <Text>NIM: H12345678</Text>
+      <Text>Nama: Muhammad Alghifari</Text>
+      <Text>NIM: D1041221044</Text>
     </View>
   );
 }
