@@ -13,7 +13,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f0f9ff', // warna biru muda
+    backgroundColor: '#f0f9ff', // biru muda
     alignItems: 'center',
     justifyContent: 'center',
   },
