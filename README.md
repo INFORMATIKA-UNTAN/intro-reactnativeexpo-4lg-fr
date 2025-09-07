@@ -21,3 +21,6 @@ v1
 - Push ke repo GitHub Anda
 - Buka Pull Request (template akan muncul otomatis)
 - Pastikan CI (lint & test) **hijau** ✅
+
+## Muhammad Alghifari
+## D1041221044
