@@ -1,10 +1,11 @@
-//import React from 'react';
-import { View, Text, StyleSheet } from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text testID="welcome-text">Hello, React Native!</Text>
+      <Text>Hello, React Native!</Text>
+      <Text>Nama: Alghi</Text>
+      <Text>NIM: H12345678</Text>
     </View>
   );
 }
@@ -12,7 +13,8 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
+    backgroundColor: '#f0f9ff', // warna biru muda
     alignItems: 'center',
+    justifyContent: 'center',
   },
 });
